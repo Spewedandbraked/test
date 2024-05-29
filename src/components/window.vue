@@ -4,7 +4,7 @@ export default{
     return{
         width: -1,
         height: -1,
-        top: 200,
+        top:0,
         left:0,
         color:'#'+(Math.random()*0xFFFFFF<<0).toString(16)
     }

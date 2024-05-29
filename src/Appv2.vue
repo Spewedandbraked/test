@@ -4,7 +4,6 @@ import window from './components/window.vue';
 
 </script>
 <template> 
-  <HelloWorld msg="d" />
   <window>
     <span>jsdnfvjksbfajksHBRGJKLQRWGJKLJHASDADSADGSYFYADGFYEQ</span>
   </window>
